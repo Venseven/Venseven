@@ -1,5 +1,4 @@
-## Hi there 👋
-![Venkatesh's GitHub stats](https://vercelreadme1-venkatesh-subramaniyans-projects.vercel.app/api?username=venseven\&rank_icon=github\&count_private=true\&include_all_commits=true)
+![Venkatesh's GitHub stats](https://vercelreadme1-venkatesh-subramaniyans-projects.vercel.app/api?username=venseven\&count_private=true\&include_all_commits=true\&show_icons=true\&rank_icon=github\&hide_title=false\&hide_border=false\&border_radius=15\&theme=radical)
 
 <!--
 **Venseven/Venseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
