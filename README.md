@@ -1,7 +1,7 @@
-![Venkatesh's GitHub stats](https://vercelreadme1-venkatesh-subramaniyans-projects.vercel.app/api?username=venseven\&count_private=true\&include_all_commits=true\&show_icons=true\&rank_icon=github\&hide_title=false\&hide_border=false\&border_radius=15\&theme=radical)
+![Venkatesh's GitHub stats](https://vercel-readme-stats-venkatesh-subramaniyans-projects.vercel.app/api?username=venseven\&count_private=true\&include_all_commits=true\&show_icons=true\&rank_icon=github\&hide_title=false\&hide_border=false\&border_radius=15\&theme=radical)
 
 <!--
-**Venseven/Venseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Venseven/Venseven** is a ✨ _special_ ✨ repository because its `RE ADME.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
