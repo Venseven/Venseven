@@ -1,3 +1,5 @@
+<!--
+
 ![Venkatesh's GitHub stats](https://vercel-readme-stats-venkatesh-subramaniyans-projects.vercel.app/api?username=venseven\&count_private=true\&include_all_commits=true\&show_icons=true\&rank_icon=github\&hide_title=false\&hide_border=false\&border_radius=15\&theme=radical)
 
 <!--
